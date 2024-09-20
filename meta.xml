@@ -1,0 +1,7 @@
+<meta>
+ <info author="guimessage" version="1.0.1" name="guimessage" description="I thought these materials exist, but there is an encrypted server file, but this is not fully encrypted" type="misc" />	
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+	<export function="outputClient" type="client"/>
+	<export function="outputServer" type="server"/>
+</meta>
