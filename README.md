@@ -15,7 +15,7 @@ To display a message from the client, use this syntax:
 exports["guimessages"]:outputClient("Your message here", r, g, b)
 ```
 Example:
-``lua
+```lua
 exports["guimessages"]:outputClient("Client message", 204, 51, 255)
 ```
 Parameters:
