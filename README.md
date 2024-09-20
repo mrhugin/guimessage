@@ -14,12 +14,12 @@ To display a message from the client, use this syntax:
 ```lua
 exports["guimessages"]:outputClient("Your message here", r, g, b)
 ```
-Example:
+`Example`:
 ```lua
 exports["guimessages"]:outputClient("Client message", 204, 51, 255)
 ```
-Parameters:
+`Parameters`:
 
-• message: The text you want to display.
+• `message`: The text you want to display.
 
-• r, g, b: The RGB values for the message color (0-255).
+• `r, g, b`: The RGB values for the message color (0-255).
